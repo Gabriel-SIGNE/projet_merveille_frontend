@@ -1,0 +1,15 @@
+{
+    "name": "bibliotech",
+    "version": "1.0.0",
+    "description": "Interface web dynamique pour une bibliothèque numérique",
+    "main": "books.js",
+    "scripts": {
+      "start": "http-server",
+      "dev": "http-server"
+    },
+    "author": "Merveille",
+    "license": "ISC",
+    "dependencies": {
+      "http-server": "^14.1.1"
+    }
+  }
